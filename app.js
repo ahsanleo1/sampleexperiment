@@ -1,1 +1,1 @@
-console.log("This is app file in JS");
+console.log("This is app file in JavaScript");
